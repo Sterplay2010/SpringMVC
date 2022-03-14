@@ -1,0 +1,38 @@
+
+@media (min-width: 200px) {
+	.navbar-custom {
+		background-color:blue;
+	}
+}
+
+@media (orientation: landscape) {
+	.navbar-custom {
+		background-color:yellow;
+	}
+}
+
+@media (min-width: 576px) {
+	.navbar-custom {
+		background-color:lightskyblue ;
+	}
+}
+
+
+@media (min-width: 768px) {
+	.navbar-custom {
+		background-color:mediumpurple;
+	}
+}
+
+@media (min-width: 992px) {
+	.navbar-custom {
+		background-color:lightskyblue ;
+	}
+}
+
+
+@media (min-width: 1200px) {
+	.navbar-custom {
+		background-color:lightskyblue ;
+	}
+}
